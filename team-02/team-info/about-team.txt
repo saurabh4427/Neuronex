@@ -1,0 +1,21 @@
+AWS CLUB — TEAM WELCOME
+
+Team Number: 02
+Team Name: neuronex
+
+Team Members:
+- rishikesh
+- yesh
+- palak
+- anjali
+
+About Our Team:
+We are Team 02, learning Linux commands, C programming, web development, AWS basics, and GitHub collaboration.
+
+Three Things We Want to Learn:
+1. AWS cloud services and deployment
+2. Linux commands and GitHub workflows
+3. Building and hosting responsive websites
+
+Our Team Motto:
+Learn Together. Build Together. Grow Together.

@@ -1,0 +1,9 @@
+Team 02 — neuronex
+
+We are working together on the AWS Hands-on Event. Our focus is learning by doing:
+- Linux file and folder management
+- C programming and debugging
+- Responsive web development
+- GitHub collaboration and AWS fundamentals
+
+We believe teamwork and practice help us build better cloud projects.
